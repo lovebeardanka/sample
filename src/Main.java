@@ -21,7 +21,7 @@ public class Main {
         }
 
 
-        System.out.println("~gg");
+        System.out.println("33");
         for (int i : arr) {
             System.out.println(i);
         }
