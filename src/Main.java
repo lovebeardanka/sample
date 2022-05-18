@@ -21,7 +21,7 @@ public class Main {
         }
 
 
-        System.out.println("33");
+        System.out.println("23");
         for (int i : arr) {
             System.out.println(i);
         }
